@@ -20,13 +20,13 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 
 *  What is java?
-=> . Java is a popular programming language, created in 1995.
-   . It is owned by Oracle and more than 3 billian devices run on Java.
-   . It is open source and free.
-   . It has huge community support.
+=> ## Java is a popular programming language, created in 1995.
+   ##  It is owned by Oracle and more than 3 billian devices run on Java.
+   ## It is open source and free.
+   ##  It has huge community support.
       (10 millions of devlopers)
-   . Write Once, Run Anywhere.
-   . Java runs on a variety of platform, such a Windows, MacOS and the various versions od Unix.
+   ##  Write Once, Run Anywhere.
+   ##  Java runs on a variety of platform, such a Windows, MacOS and the various versions od Unix.
    
   * Java version history?
  => 1. JDK Alpha and Beta(1995)
